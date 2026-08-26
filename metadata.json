@@ -1,0 +1,6 @@
+{
+  "name": "3D Arcade Nexus",
+  "description": "Interactive 3D game suite featuring 3D Tic-Tac-Toe with neon laser rays, The Matrix volumetric rain memory puzzle with sequence multiplier, and 3D Ludo board game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
